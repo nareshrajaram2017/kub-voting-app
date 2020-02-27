@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62300507-ed57-476d-bc2e-1c6fc268e854" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/redis-deployment.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-app-deployment.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postgres-pod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-deployment.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis-pod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/voting-app-pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/voting-app-deployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/worker-app-pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/worker-app-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgres-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-deployment.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
